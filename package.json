@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite --port=3002",
+    "dev": "vite --port=5082",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
@@ -13,8 +13,9 @@
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
     "@fontsource/roboto": "^5.3.0",
-    "@mui/icons-material": "^9.4.0",
-    "@mui/material": "^9.4.0",
+    "@mui/icons-material": "^9.5.0",
+    "@mui/material": "^9.5.0",
+    "bootstrap": "^6.0.0-alpha.1",
     "react": "^19.2.8",
     "react-dom": "^19.2.8"
   },
